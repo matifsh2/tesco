@@ -1,0 +1,58 @@
+.tesco-logo {
+
+  width: 100px;
+}
+
+.navbar-link {
+padding: 20px;
+color: white;
+
+}
+
+.navbar {background-color: #005086 }
+
+#tesco-menu {
+  background-color: #005086;
+}
+
+/* tesco carousel and heading */
+
+#tesco-headings {
+  background-color: #318fb5;
+  text-align: center;
+}
+
+.image-size {
+  height: 300px;
+  margin: 2% auto;
+}
+
+.navbar {
+  padding: auto 20%;
+}
+
+.carousel-item {text-align: center;}
+h1 {
+
+margin-top: 2%;
+}
+
+h3 {
+  padding-bottom: 5%;
+}
+
+
+/* section 3 tariq pic */
+
+#company-profile {text-align: center;}
+.tariq-pic {
+  width: 300px;
+}
+
+p {
+  padding-top: 5%;
+text-align: left;
+margin: auto 20%;
+text-align: justify;
+
+}
